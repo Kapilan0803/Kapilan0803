@@ -49,17 +49,29 @@ Resourceful and adaptable AI enthusiast with a passion for building intelligent 
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Featured Projects
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kapilan0803&show_icons=true&theme=radical&hide_border=true&count_private=true)
+### 🤖 [AI-Chatbot-Suite](https://github.com/Kapilan0803/AI-Chatbot-Suite)
+An AI-powered chatbot delivering dynamic, context-aware responses
+- Built with Python, LangChain, and Groq Inference
+- Integrated Streamlit for interactive backend interface
+- Implemented RAG with FAISS for vector-based document retrieval
+- Real-time Q&A over custom knowledge bases
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapilan0803&layout=compact&theme=radical&hide_border=true)
+### 💰 [FinTrack](https://github.com/Kapilan0803/FinTrack)
+Personal finance management application for budgeting and expense tracking
+- Interactive UI built with HTML, CSS, and JavaScript
+- Data visualization charts for spending patterns
+- Budget management and financial analysis features
+- User-friendly expense tracking system
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kapilan0803&theme=radical&hide_border=true)
+### 📍 [CampusTrack](https://github.com/Kapilan0803/CampusTrack-Intelligent-Lost-and-Found-Locater)
+Intelligent Lost and Found Locator system
+- Frontend development with React and JavaScript
+- Responsive design with seamless functionality
+- Integration of frontend and backend features
+- Dynamic user interface components
 
-</div>
 ---
 
 ## 💼 Experience
@@ -71,7 +83,6 @@ Resourceful and adaptable AI enthusiast with a passion for building intelligent 
 - Gained hands-on experience in modern web development
 
 ---
-
 
 ## 📫 Let's Connect!
 
