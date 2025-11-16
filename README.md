@@ -49,31 +49,6 @@ Resourceful and adaptable AI enthusiast with a passion for building intelligent 
 
 ---
 
-## 🌟 Featured Projects
-
-### 🤖 [AI-Chatbot-Suite](https://github.com/Kapilan0803/AI-Chatbot-Suite)
-An AI-powered chatbot delivering dynamic, context-aware responses
-- Built with Python, LangChain, and Groq Inference
-- Integrated Streamlit for interactive backend interface
-- Implemented RAG with FAISS for vector-based document retrieval
-- Real-time Q&A over custom knowledge bases
-
-### 💰 [FinTrack](https://github.com/Kapilan0803/FinTrack)
-Personal finance management application for budgeting and expense tracking
-- Interactive UI built with HTML, CSS, and JavaScript
-- Data visualization charts for spending patterns
-- Budget management and financial analysis features
-- User-friendly expense tracking system
-
-### 📍 [CampusTrack](https://github.com/Kapilan0803/CampusTrack-Intelligent-Lost-and-Found-Locater)
-Intelligent Lost and Found Locator system
-- Frontend development with React and JavaScript
-- Responsive design with seamless functionality
-- Integration of frontend and backend features
-- Dynamic user interface components
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -85,23 +60,6 @@ Intelligent Lost and Found Locator system
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kapilan0803&theme=radical&hide_border=true)
 
 </div>
-
----
-
-## 🎓 Education & Certifications
-
-**B.Tech in Artificial Intelligence and Data Science**  
-V.S.B Engineering College | CGPA: 7.6 | 2022 - 2026
-
-**AWS Academy Certifications:**
-- Cloud Operations
-- Cloud Architecting
-- Generative AI Foundations
-
-**Additional Certifications:**
-- Java Foundation - Infosys Springboard
-- Java Programming - Infosys Springboard
-
 ---
 
 ## 💼 Experience
@@ -114,13 +72,6 @@ V.S.B Engineering College | CGPA: 7.6 | 2022 - 2026
 
 ---
 
-## 🏆 Achievements
-
-- 🎯 Attended AI Workshop at IIT Madras Research Institute
-- 🚀 Explored AI applications in daily life and core AI engineering skills
-- 💻 Completed multiple real-world development projects
-
----
 
 ## 📫 Let's Connect!
 
