@@ -1,103 +1,180 @@
-# Hi there, I'm Kapilan P.C 👋
+<div align="center">
+
+# 👨‍💻 KAPILAN P.C
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Frontend+Developer;AI+%26+Data+Science+Student" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/🔗_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kapilan-p-c-361188280/)
+[![GitHub](https://img.shields.io/badge/⭐_Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kapilan0803)
+[![Email](https://img.shields.io/badge/📧_Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapilanchellamuthu@gmail.com)
+---
+
+</div>
+
+## 👨‍💻 About Me
+
+Frontend Developer and B.Tech student specializing in Artificial Intelligence and Data Science at V.S.B Engineering College. I focus on building responsive, user-centric web applications using modern JavaScript frameworks and best practices.
+
+I love transforming designs into pixel-perfect, interactive experiences using modern web technologies. My journey in web development has been driven by curiosity and a commitment to writing clean, maintainable code. Whether it's building dynamic React components or crafting seamless user experiences, I'm always excited to take on new challenges.
+
+**Current Focus Areas:**
+- Building scalable React applications with modern hooks and state management
+- Implementing responsive designs with accessibility standards
+- Developing AI-powered web applications
+- Contributing to open-source projects
+
+---
+
+## 🛠️ Technical Skills
 
 <div align="center">
-  
-### Aspiring AI and Data Science Professional
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kapilan-p-c-361188280/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kapilan0803)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapilanchellamuthu@gmail.com)
+### 💻 Frontend Development
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70" alt="React" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70" alt="JavaScript" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70" alt="HTML5" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70" alt="CSS3" title="CSS3"/>
+</p>
+
+### 📚 Programming Languages
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70" alt="Java" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" alt="Python" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70" alt="SQL" title="SQL"/>
+</p>
+
+### 🔧 Development Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" alt="Git" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="70" alt="GitHub" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" height="70" alt="VS Code" title="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="70" height="70" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 💼 Professional Experience
 
-Resourceful and adaptable AI enthusiast with a passion for building intelligent solutions. Currently pursuing B.Tech in Artificial Intelligence and Data Science at V.S.B Engineering College. I love working on projects that combine machine learning, web development, and real-world problem-solving.
+### 🎓 Java Intern** | *Infosys Springboard* | `Sep 2025 - Oct 2025`
 
-- 🔭 Currently working on AI-powered applications and web development projects
-- 🌱 Learning advanced AI/ML techniques and cloud technologies
-- 💡 Passionate about creating user-friendly, intelligent solutions
-- 📍 Based in Karur, Tamil Nadu, India
+<img align="right" width="120" src="https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png"/>
 
----
+- 🎨 Developed responsive frontend components using **React** and **JavaScript**
+- 🔧 Integrated frontend-backend features for seamless user experience
+- 🚀 Enhanced problem-solving skills through real-world project implementation
+- 🤝 Collaborated in agile team environment for project delivery
 
-## 💻 Tech Stack
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### AI/ML & Tools
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Development Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🌟 Featured Projects
+## 🎓 Education
 
-### 🤖 [AI-Chatbot-Suite](https://github.com/Kapilan0803/AI-Chatbot-Suite)
-An AI-powered chatbot delivering dynamic, context-aware responses
-- Built with Python, LangChain, and Groq Inference
-- Integrated Streamlit for interactive backend interface
-- Implemented RAG with FAISS for vector-based document retrieval
-- Real-time Q&A over custom knowledge bases
-
-### 💰 [FinTrack](https://github.com/Kapilan0803/FinTrack)
-Personal finance management application for budgeting and expense tracking
-- Interactive UI built with HTML, CSS, and JavaScript
-- Data visualization charts for spending patterns
-- Budget management and financial analysis features
-- User-friendly expense tracking system
-
-### 📍 [CampusTrack](https://github.com/Kapilan0803/CampusTrack-Intelligent-Lost-and-Found-Locater)
-Intelligent Lost and Found Locator system
-- Frontend development with React and JavaScript
-- Responsive design with seamless functionality
-- Integration of frontend and backend features
-- Dynamic user interface components
+**Bachelor of Technology in Artificial Intelligence and Data Science**  
+V.S.B Engineering College | *2022 - Present* | **CGPA: 7.6**
 
 ---
 
-## 💼 Experience
-
-**Java Intern** | Infosys Springboard | Sep 2025 - Oct 2025
-- Frontend development with React, JavaScript, HTML, CSS, and Java
-- Built dynamic user interface components
-- Collaborated on frontend-backend integration
-- Gained hands-on experience in modern web development
-
----
-
-## 📫 Let's Connect!
-
-I'm always interested in collaborating on innovative AI/ML projects or discussing new technologies. Feel free to reach out!
-
-- 📧 Email: kapilanchellamuthu@gmail.com
-- 💼 LinkedIn: [Kapilan P.C](https://linkedin.com/in/kapilan-p-c-361188280/)
-- 📱 Phone: +91 9626977216
-
----
+## 🎨 Featured Projects
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile! Feel free to explore my repositories and don't forget to star the ones you like! ⭐
+<table>
+<tr>
+<td width="50%">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kapilan0803&color=blueviolet&style=flat-square)
+### 🤖 AI-Chatbot-Suite
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Kapilan0803/AI-Chatbot-Suite)
+
+**Dynamic AI-powered conversational system**
+
+🔹 Built with **Python**, **LangChain**, **Groq**  
+🔹 **RAG** implementation with **FAISS**  
+🔹 **Streamlit** interface for deployment  
+🔹 Real-time Q&A over custom knowledge bases  
+
+`#AI` `#NLP` `#LangChain` `#RAG`
+
+</td>
+<td width="50%">
+
+### 💰 FinTrack
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Kapilan0803/FinTrack)
+
+**Personal finance management app**
+
+🔹 Interactive UI with **HTML/CSS/JavaScript**  
+🔹 Budget tracking & expense management  
+🔹 Data visualization for spending insights  
+🔹 Financial analysis dashboard  
+
+`#WebDev` `#Finance` `#JavaScript`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" colspan="2">
+
+### 📍 CampusTrack *(Internship Project)*
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Kapilan0803/CampusTrack-Intelligent-Lost-and-Found-Locater)
+
+**Intelligent Lost & Found System**
+
+🔹 **React** based frontend architecture  
+🔹 Responsive & intuitive design  
+🔹 Seamless frontend-backend integration  
+🔹 Dynamic component rendering  
+
+`#React` `#WebApp` `#Campus`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+## 📄 Resume
+
+<div align="center">
+
+[![Download Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/Kapilan0803/Kapilan0803/blob/main/Kapilan%20P%20C%20Resume.pdf)
+
+**View my complete professional profile and experience**
+
+</div>
+
+---
+
+## 📫 Contact Information
+
+<div align="center">
+
+I'm open to collaboration opportunities, freelance projects, and full-time positions in frontend development.
+
+**📧 Email:** [kapilanchellamuthu@gmail.com](mailto:kapilanchellamuthu@gmail.com)  
+**📱 Phone:** +91 9626977216  
+**📍 Location:** Karur, Tamil Nadu, India
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kapilan-p-c-361188280/)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kapilan0803)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kapilan0803&label=Profile%20Views&color=6366F1&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/Kapilan0803?label=Followers&style=flat-square&color=6366F1)](https://github.com/Kapilan0803)
+[![GitHub stars](https://img.shields.io/github/stars/Kapilan0803?label=Total%20Stars&style=flat-square&color=6366F1)](https://github.com/Kapilan0803)
+
+<br>
+
+*⭐ If you find my work valuable, please consider starring my repositories!*
 
 </div>
