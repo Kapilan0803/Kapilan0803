@@ -89,7 +89,6 @@ V.S.B Engineering College | *2022 - Present* | **CGPA: 7.6**
 <td width="50%">
 
 ### 🤖 AI-Chatbot-Suite
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Kapilan0803/AI-Chatbot-Suite)
 
 **Dynamic AI-powered conversational system**
 
@@ -104,7 +103,6 @@ V.S.B Engineering College | *2022 - Present* | **CGPA: 7.6**
 <td width="50%">
 
 ### 💰 FinTrack
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Kapilan0803/FinTrack)
 
 **Personal finance management app**
 
@@ -119,10 +117,9 @@ V.S.B Engineering College | *2022 - Present* | **CGPA: 7.6**
 </tr>
 
 <tr>
-<td width="50%" colspan="2">
+<td width="100%" colspan="2">
 
 ### 📍 CampusTrack *(Internship Project)*
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Kapilan0803/CampusTrack-Intelligent-Lost-and-Found-Locater)
 
 **Intelligent Lost & Found System**
 
@@ -144,7 +141,7 @@ V.S.B Engineering College | *2022 - Present* | **CGPA: 7.6**
 
 <div align="center">
 
-[![Download Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/Kapilan0803/Kapilan0803/blob/main/Kapilan%20P%20C%20Resume.pdf)
+[![Download Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://raw.githubusercontent.com/Kapilan0803/Kapilan0803/main/Kapilan%20P%20C%20Resume.pdf)
 
 **View my complete professional profile and experience**
 
