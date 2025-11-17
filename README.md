@@ -154,7 +154,7 @@ V.S.B Engineering College | *2022 - Present* | **CGPA: 7.6**
 
 I'm open to collaboration opportunities, freelance projects, and full-time positions in frontend development.
 
-**📧 Email:** [kapilanchellamuthu@gmail.com]  
+**📧 Email:** [kapilanchellamuthu@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=kapilanchellamuthu@gmail.com&su=Opportunity%20from%20GitHub&body=Hi%20Kapilan,%0D%0A%0D%0AI%20found%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20connect.%0D%0A%0D%0ABest%20regards)  
 **📱 Phone:** +91 9626977216  
 **📍 Location:** Karur, Tamil Nadu, India
 
