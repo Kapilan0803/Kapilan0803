@@ -6,8 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/🔗_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kapilan-p-c-361188280/)
 [![GitHub](https://img.shields.io/badge/⭐_Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kapilan0803)
-[![Email](https://img.shields.io/badge/📧_Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapilanchellamuthu@gmail.com)
----
+[![Email Me](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=kapilanchellamuthu@gmail.com&su=Opportunity%20from%20GitHub&body=Hi%20Kapilan,%0D%0A%0D%0AI%20found%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20connect.%0D%0A%0D%0ABest%20regards)
 
 </div>
 
@@ -155,7 +154,7 @@ V.S.B Engineering College | *2022 - Present* | **CGPA: 7.6**
 
 I'm open to collaboration opportunities, freelance projects, and full-time positions in frontend development.
 
-**📧 Email:** [kapilanchellamuthu@gmail.com](mailto:kapilanchellamuthu@gmail.com)  
+**📧 Email:** [kapilanchellamuthu@gmail.com]  
 **📱 Phone:** +91 9626977216  
 **📍 Location:** Karur, Tamil Nadu, India
 
