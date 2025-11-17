@@ -141,7 +141,7 @@ V.S.B Engineering College | *2022 - Present* | **CGPA: 7.6**
 
 <div align="center">
 
-[![Download Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://raw.githubusercontent.com/Kapilan0803/Kapilan0803/main/Kapilan%20P%20C%20Resume.pdf)
+[![Download Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/Kapilan0803/Kapilan0803/raw/main/Kapilan-P-C-Resume.pdf)
 
 **View my complete professional profile and experience**
 
